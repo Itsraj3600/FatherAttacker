@@ -147,7 +147,7 @@ if __name__ == "main":
 else:
     pass
 
-##################################### CODED BY ANSH DADWAL ##################################⏎  
+##################################### CODED BY ITS_RAJ3600 ##################################⏎  
 
 for i in ['colorama','requests','tload']:
     if checkImport(i) is False:
@@ -236,7 +236,7 @@ def prepend_line(file_name, line):
 
 
 def getApi(target):
-    apiUrl = "https://raw.githubusercontent.com/T-Dynamos/BaapG-Attack/main/apiData.baap"
+    apiUrl = "https://github.com/Itsraj3600/FatherAttacker/main/apiData.baap"
     try:
         a = requests.get(apiUrl)
         open('dataBa.py', 'wb').write(a.content)
