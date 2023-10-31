@@ -63,7 +63,7 @@ FatherAttacker is a python3 based script which is officially made for linux base
 * `python3 BaapG.py`
 
 
-## SCREEN SHOTS [Termux]
+## SCREEN SHOTS [Termux] :
 
 <br>
 <p align="center">
@@ -75,7 +75,7 @@ FatherAttacker is a python3 based script which is officially made for linux base
 ## WARNING : 
 This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.
 
-## Dontaions
+## Donations :
 
 If You really like my work you should consider donating to me.
 
