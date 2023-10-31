@@ -188,7 +188,7 @@ def check_intr():
     try:
         requests.get("https://motherfuckingwebsite.com",timeout=1)
     except Exception:
-        print("Abe Chutiya Internet On Kar. Internet Error")
+        print("Internet Error")
         sys.exit(2)       
 
 lic = """
@@ -219,8 +219,8 @@ logo = f"""{Style.BRIGHT+text}
 {W}┃╭━╮┃╭╮┃╭╮┃╭╮┃┃╭━╮ ┃╰━╯┃┃┃╱┃┃┃╭╮┃╭━┫╰╯╯
 {G}┃╰━╯┃╭╮┃╭╮┃╰╯┃╰┻━┃ ┃╭━╮┃┃╰╮┃╰┫╭╮┃╰━┫╭╮╮
 {G}╰━━━┻╯╰┻╯╰┫╭━┻━━━╯ ╰╯╱╰╯╰━╯╰━┻╯╰┻━━┻╯╰╯
-╱╱╱╱╱╱╱╱╱╱┃┃ {C}Author : {Y}BaapG Krishna {Y}Rajput
-╱╱╱╱╱╱╱╱╱╱╰╯ {C}Coder  : {Y}Ansh Dadwal
+╱╱╱╱╱╱╱╱╱╱┃┃ {C}Author : {Y}Rajkirat {Y}Singh
+╱╱╱╱╱╱╱╱╱╱╰╯ {C}Coder  : {Y}Its_Raj3600
 {C}             Version : {G}{version}
  """
 
@@ -419,7 +419,7 @@ def main(a):
         wpbomb()		
         res()	
     elif a == '5':
-    	print(f"{C}\n All Credit : Krishna Singh Rajput \n {G}Coded by Ansh Dadwal\n\n{W}{lic}\n\n")
+    	print(f"{C}\n All Credit : Rajkirat Singh \n {G}Coded by Its_Raj3600\n\n{W}{lic}\n\n")
     	res()
     elif a == '6':
     	exit()
