@@ -192,7 +192,7 @@ def check_intr():
         sys.exit(2)       
 
 lic = """
-#  Copyright 2021 TDynamos <tdynamos@linux>
+#  Copyright 2021 RKMultinationals <Raj3600@linux>
 #
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -208,8 +208,8 @@ lic = """
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
-# if You Have Any Problem Contact Me On Insta 
-# Api by Tbomb
+# if You Have Any Problem Contact Me On Insta @its_raj3600
+# Api by RKMultinationals
 """
 text = ''
 logo = f"""{Style.BRIGHT+text}
@@ -305,7 +305,7 @@ def sms():
 	target = input(
 	    f"{G}[{W}+{G}] Enter the Victim's Phone number \n\n{W}-----{R}# {C}")	
 	print()
-	a = requests.get('https://raw.githubusercontent.com/T-Dynamos/BaapG-Attack/main/.protected.numbers').text
+	a = requests.get('https://github.com/Itsraj3600/FatherAttacker/main/.protected.numbers').text
 	if target in a :
 		error(f"{R} You Can't Bomb This Number");print();res()
 	else:
