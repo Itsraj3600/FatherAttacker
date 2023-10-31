@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 #
 #
-#  Copyright 2021 TDynamos <tdynamos@linux>
+#  Copyright 2021 RKMultinationals <Raj3600@linux>
 #
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -17,6 +17,8 @@
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
+# if You Have Any Problem Contact Me On Insta @its_raj3600
+# Api by RKMultinationals
 
 ################################## HEADER SCRIPT 1.0 ###################################
 import os 
@@ -221,7 +223,7 @@ logo = f"""{Style.BRIGHT+text}
 {G}╰━━━┻╯╰┻╯╰┫╭━┻━━━╯ ╰╯╱╰╯╰━╯╰━┻╯╰┻━━┻╯╰╯
 ╱╱╱╱╱╱╱╱╱╱┃┃ {C}Author : {Y}Rajkirat {Y}Singh
 ╱╱╱╱╱╱╱╱╱╱╰╯ {C}Coder  : {Y}Its_Raj3600
-{C}             Version : {G}{version}
+{C}             Version : {G}{version} Toolis still in Development Phase...
  """
 
 
