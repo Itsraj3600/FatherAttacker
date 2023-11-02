@@ -223,7 +223,7 @@ logo = f"""{Style.BRIGHT+text}
 {G}╰━━━┻╯╰┻╯╰┫╭━┻━━━╯ ╰╯╱╰╯╰━╯╰━┻╯╰┻━━┻╯╰╯
 ╱╱╱╱╱╱╱╱╱╱┃┃ {C}Author : {Y}Rajkirat {Y}Singh
 ╱╱╱╱╱╱╱╱╱╱╰╯ {C}Coder  : {Y}Its_Raj3600
-{C}             Version : {G}{version} Toolis still in Development Phase...
+{C}             Version : {G}{version} Tool is still in Development Phase...
  """
 
 
