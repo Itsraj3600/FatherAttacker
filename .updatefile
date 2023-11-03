@@ -1,3 +1,4 @@
+apt update -y 
 apt install git
 apt install python3
 pip install cython 
